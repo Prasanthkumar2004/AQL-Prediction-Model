@@ -58,6 +58,7 @@ Edit
 python aqi_prediction.py
 
 📈 Results & Performance
+
 Random Forest performed best with the lowest RMSE and highest R² score.
 Visualized trends show seasonal variations in AQI levels.
 Predictions align with real-world air quality fluctuations.
