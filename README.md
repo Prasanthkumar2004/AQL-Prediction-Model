@@ -17,7 +17,7 @@ Data Handling: CSV, Excel
 📂 Dataset
 The dataset used in this project consists of historical air pollution records obtained from:
 
-Kaggle / UCI Repository / Government AQI Databases
+AQI Databases
 It includes pollutant levels (PM2.5, PM10, CO, NO₂, SO₂, O₃) and AQI values.
 📊 Methodology
 1️⃣ Data Collection – Obtain AQI data from public sources.
@@ -31,7 +31,7 @@ It includes pollutant levels (PM2.5, PM10, CO, NO₂, SO₂, O₃) and AQI value
 bash
 Copy
 Edit
-git clone https://github.com/your-username/AQI-Prediction-ML.git
+git clone https://github.com/Prasanthkumar2004/AQL-Prediction-Model.git
 cd AQI-Prediction-ML
 2️⃣ Install Dependencies
 bash
