@@ -1,13 +1,17 @@
 🌍 Air Quality Index (AQI) Prediction Using Machine Learning
+
 📌 Project Overview
+
 This project aims to predict the Air Quality Index (AQI) using machine learning algorithms based on historical air pollution data. By analyzing pollutant levels such as PM2.5, PM10, CO, NO₂, SO₂, and O₃, the model forecasts AQI values to help in environmental monitoring and decision-making.
 
 🚀 Features
+
 ✅ Predict AQI based on pollutant concentration data
 ✅ Implements Random Forest, Decision Tree, Linear Regression, and KNN algorithms
 ✅ Data preprocessing, feature selection, and model optimization
 ✅ Visualization of AQI trends using Matplotlib & Seaborn
 ✅ Performance evaluation using MSE, RMSE, and R² score
+
 
 🛠 Technologies Used
 Programming Language: Python 🐍
@@ -19,6 +23,7 @@ The dataset used in this project consists of historical air pollution records ob
 
 AQI Databases
 It includes pollutant levels (PM2.5, PM10, CO, NO₂, SO₂, O₃) and AQI values.
+
 📊 Methodology
 1️⃣ Data Collection – Obtain AQI data from public sources.
 2️⃣ Preprocessing – Handle missing values, normalize data, and perform feature selection.
@@ -33,21 +38,25 @@ Copy
 Edit
 git clone https://github.com/Prasanthkumar2004/AQL-Prediction-Model.git
 cd AQI-Prediction-ML
+
 2️⃣ Install Dependencies
 bash
 Copy
 Edit
 pip install -r requirements.txt
+
 3️⃣ Run the Jupyter Notebook
 bash
 Copy
 Edit
 jupyter notebook
+
 4️⃣ Execute the Python Script
 bash
 Copy
 Edit
 python aqi_prediction.py
+
 📈 Results & Performance
 Random Forest performed best with the lowest RMSE and highest R² score.
 Visualized trends show seasonal variations in AQI levels.
