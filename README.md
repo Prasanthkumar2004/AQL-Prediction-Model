@@ -25,13 +25,19 @@ AQI Databases
 It includes pollutant levels (PM2.5, PM10, CO, NO₂, SO₂, O₃) and AQI values.
 
 📊 Methodology
+
 1️⃣ Data Collection – Obtain AQI data from public sources.
+
 2️⃣ Preprocessing – Handle missing values, normalize data, and perform feature selection.
+
 3️⃣ Model Selection – Train multiple ML models (Random Forest, Decision Tree, Linear Regression, KNN).
+
 4️⃣ Evaluation – Measure performance using MSE, RMSE, and R² score.
+
 5️⃣ Prediction & Visualization – Predict AQI and visualize trends.
 
 🔥 How to Run the Project
+
 1️⃣ Clone the Repository
 bash
 Copy
